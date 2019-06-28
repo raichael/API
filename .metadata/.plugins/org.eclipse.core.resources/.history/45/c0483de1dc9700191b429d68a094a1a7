@@ -1,0 +1,5 @@
+package com.letsstartcoding.springbootrestapi.repository;
+
+public class EmployeeRepository {
+
+}
